@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏾‍💻 Hey I'm Nogossan, web integrator developer currently in apprenticeship <br>at IFOCOP (France).<br>💻🖲️Coding is so fun and give me the possiblity to create from scratch<br><br><br>
+👩🏾‍💻 Hey I'm Nogossan, web integrator developer currently in apprenticeship <br>at IFOCOP (France).<br>💻🖲️Coding is so fun and give me the possibility to create from scratch<br><br><br>
 
 
 ## 🌐 Socials:
